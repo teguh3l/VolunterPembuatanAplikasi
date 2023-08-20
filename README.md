@@ -2,4 +2,6 @@
 
 Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunter, silahkan lakukan PR (pull-request) pada berkas ini ya. Silakan gunakan format berikut:
 
-**\*Nama Lengka, [oo.or.id](https://oo.or.id)/
+**\*Nama Lengkap, [Nama Portofolio] (Alamat Portofolio) **
+
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id)/
